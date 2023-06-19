@@ -8,7 +8,9 @@ int main(){
         if(date%2==0){
             continue;
         }
+        if
         cout<<"Go out today!"<<endl;
+        pocketMoney=pocketMoney-300;
     }
 
     return 0;
