@@ -2,14 +2,14 @@
 using namespace std;
 
 int main(){
+
     int n;
     cin>>n;
 
-    int sum=0;
-
-    for(int counter=1;counter<=n;counter++){
-
-    }
+    do{
+        cout<<n<<endl;
+        cin>>n;
+    }while(n>0);
 
     return 0;
 }
