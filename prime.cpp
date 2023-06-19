@@ -14,5 +14,5 @@ int main() {
     if(i==n){
     cout<<"Prime"<<endl;
     }
-
+    return 0;
 }
